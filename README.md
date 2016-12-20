@@ -1,4 +1,4 @@
-# Long-term_time_series_Housing_and_Land_Survey
+# long-term_time_series_housing_and_land_survey
 　【和歌山県　長期時系列　住宅・土地統計調査です。】
 ◆住宅・土地統計調査とは
 住宅・土地統計調査（5年ごと）は、我が国の住宅とそこに居住する世帯の居住状況、世帯の保有する土地等の実態を把握し、その現状と推移を明らかにする調査です。 
